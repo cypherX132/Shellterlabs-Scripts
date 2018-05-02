@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #Created by cypherX
 
 from pwn import *
